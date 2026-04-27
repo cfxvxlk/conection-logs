@@ -80,5 +80,4 @@ License: abc123def456
 
 For support or issues, please contact the Luna team.
 
-**Version**: 1.0.0
-**Author**: Luna
+https://discord.gg/rtJaTSs4nc
